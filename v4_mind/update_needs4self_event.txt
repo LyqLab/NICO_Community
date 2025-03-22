@@ -1,0 +1,19 @@
+update_needs4self_event.txt
+
+Variables: 
+!<INPUT 0>! -- persona name (Agent)
+!<INPUT 1>! -- cognition of Persona self
+!<INPUT 2>! -- conversation or content (event , thought)
+!<INPUT 3>! -- current needs of self
+!<INPUT 4>! -- current action
+
+<commentblockmarker>###</commentblockmarker>
+
+!<INPUT 0>!’s current action is !<INPUT 4>!. !<INPUT 0>! believe the cognition of self are:
+!<INPUT 1>!
+
+Now, 
+!<INPUT 2>!
+
+Before above content, !<INPUT 0>! believe the needs of self was: !<INPUT 3>!
+After above content, !<INPUT 0>! believe the needs of self was changed to:

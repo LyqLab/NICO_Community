@@ -1,0 +1,14 @@
+Variables: 
+!<INPUT 0>! -- persona name (Agent)
+!<INPUT 1>! -- object name
+!<INPUT 2>! -- conversation or content(event , thought)
+!<INPUT 3>! -- attribute name
+!<INPUT 4>! -- attribute old value
+!<INPUT 5>! -- cognition of Persona self , needs , action
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 2>!
+!<INPUT 5>!
+
+Before above content, !<INPUT 0>! believe the !<INPUT 3>! of !<INPUT 1>! was: !<INPUT 4>!
+After above content, !<INPUT 0>! believe the !<INPUT 3>! of !<INPUT 1>! was changed to:

@@ -1,0 +1,18 @@
+update_needs4other_event.txt
+
+Variables: 
+!<INPUT 1>! -- persona name (Agent)
+!<INPUT 2>! -- persona name (Another Agent) or object name
+!<INPUT 3>! -- conversation or content(event , thought)
+!<INPUT 4>! -- needs of self
+!<INPUT 5>! -- cognition of Persona (Another Agent) self , needs , action
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 1>! believe the cognition of !<INPUT 2>! are:
+!<INPUT 5>!
+
+Now, 
+!<INPUT 3>!
+
+Before above content, !<INPUT 1>! believe the needs of !<INPUT 2>! was: !<INPUT 4>!
+After above content, !<INPUT 1>! believe the needs of !<INPUT 2>! was changed to:

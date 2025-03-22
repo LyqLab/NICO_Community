@@ -1,0 +1,16 @@
+update_mind4other_event..txt
+
+Variables:
+!<INPUT 0>! -- persona name（Agent）
+!<INPUT 1>! -- persona name（Another Agent）
+!<INPUT 2>! -- conversation
+!<INPUT 3>! -- attribute name
+!<INPUT 4>! -- attribute old value
+!<INPUT 5>! -- cognition of Persona self , needs , action
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 2>!
+!<INPUT 5>! 
+
+Before above conversation, !<INPUT 0>! believe the !<INPUT 3>! of !<INPUT 1>! was: !<INPUT 4>!
+After above conversation, !<INPUT 0>! believe the !<INPUT 3>! of !<INPUT 1>! was changed to:

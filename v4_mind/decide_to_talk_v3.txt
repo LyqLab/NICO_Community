@@ -1,0 +1,19 @@
+decide_to_talk_v3.txt
+
+!<INPUT 0>!	cognition of Persona self , needs , action
+!<INPUT 1>!	curr_time
+!<INPUT 2>!	init_persona.name
+!<INPUT 3>!	target_persona.name
+!<INPUT 4>!	last_chatted_time
+!<INPUT 5>!	last_chat_about
+!<INPUT 6>!	init_p_desc
+!<INPUT 7>!	target_p_desc
+
+<commentblockmarker>###</commentblockmarker>
+
+!<INPUT 0>!
+Right now, it is !<INPUT 1>!. !<INPUT 2>! and !<INPUT 3>! last chatted at !<INPUT 4>! about !<INPUT 5>!. 
+!<INPUT 6>! 
+!<INPUT 7>! 
+Question: Would !<INPUT 2>! initiate a new conversation with !<INPUT 3>! right now (Answer in yes or no)?
+Because 

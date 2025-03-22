@@ -1,0 +1,19 @@
+impact4RTD_event.txt
+
+Variables:
+!<INPUT 1>! -- Lifestyle
+!<INPUT 2>! -- date time now
+!<INPUT 3>! -- Persona name
+!<INPUT 4>! -- Daily plan
+!<INPUT 5>! -- cognition of Persona self
+!<INPUT 6>! -- Persona current act
+!<INPUT 7>! -- Event
+
+<commentblockmarker>###</commentblockmarker>
+It is !<INPUT 2>!. !<INPUT 3>!'s lifestyle is: !<INPUT 1>!. !<INPUT 3>!'s daily plan is: !<INPUT 4>!.
+
+!<INPUT 3>!'s cognition of self is: !<INPUT 5>!
+
+!<INPUT 3>!'s current state is :
+!<INPUT 6>!
+Now the event is !<INPUT 7>!, please rate the impact of this event on !<INPUT 3>! (0.0: lowest impact, 10.0 highest impact):

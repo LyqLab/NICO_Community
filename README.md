@@ -1,4 +1,6 @@
-# Agent Sales: I Should build cognition of my Customers!    (NICO_Community)
+
+
+# Agent Sales: I Should build cognition of my Customers!
 
 <p align="center" width="100%">
 <img src="map1.png" alt="NICO Supermarket" style="width: 80%; min-width: 300px; display: block; margin: auto;">
@@ -59,7 +61,6 @@ update_needs4self_event
 
 
 ### We will publish the complete project once this article has been accepted
-
 
 
 
