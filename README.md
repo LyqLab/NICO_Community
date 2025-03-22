@@ -8,7 +8,9 @@
 
 A virtual supermarket is embedded into a town comprising 12 LLM-driven agents. This allows the observation of the dynamic interaction and mental evolution process between consumer-type and seller-type agents. Based on continuously adjusted cognition, the agents with different identities will achieve behaviours such as dynamic scheduling, environmental perception and exploration, conversation content control, sales and purchase decision-making.
 
-![A brief introduction to our project.](NICO.gif)
+<div align="center">
+  <img src="NICO.gif" alt="A brief introduction to our project" width="600" height="400"/>
+</div>
 
 ### Step 0. Deployment Generative Agents and Llama2
 
