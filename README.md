@@ -8,6 +8,10 @@
 
 A virtual supermarket is embedded into a town comprising 12 LLM-driven agents. This allows the observation of the dynamic interaction and mental evolution process between consumer-type and seller-type agents. Based on continuously adjusted cognition, the agents with different identities will achieve behaviours such as dynamic scheduling, environmental perception and exploration, conversation content control, sales and purchase decision-making.
 
+<p align="center" width="100%">
+<img src="NICO.mp4" alt="NICO Supermarket" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+</p>
+
 ### Step 0. Deployment Generative Agents and Llama2
 
 Our work is based on `Generative Agents`, so be sure to deploy and debug this project first, and then add our designs to it to improve it.
