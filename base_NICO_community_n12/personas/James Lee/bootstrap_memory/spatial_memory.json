@@ -1,0 +1,211 @@
+{
+  "the Ville": {
+	"Lee family's house": {
+      "Christopher and Elizabeth Lee's bedroom": [
+	    "bed",
+		"shelf"
+	  ],
+	  "Christopher and Elizabeth Lee's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "Ava Lee's room": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "Ava Lee's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "James Lee's room": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "James Lee's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "common room": [
+	    "television",
+		"common room sofa"
+	  ],
+	  "kitchen": []
+	},
+	"NICO Supermarket": {
+	  "market": [
+	    "art painting",
+		"wine glass",
+		"guitar",
+		"gift boxes",
+		"plants",
+		"yoga pants",
+		"computer",
+		"kitchenware"
+	  ],
+	  "conference area": []
+	},
+	"Hawks Steakhouse": {
+	  "Steakhouse": [
+	    "television",
+		"common room table",
+		"behind the Steakhouse counter",
+		"Steakhouse customer seating"
+	  ],
+	  "bathroom": [
+	    "toilet",
+		"bathroom sink"
+	  ]
+	},
+	"Lough Pub": {
+	  "pub": [
+	    "television",
+		"common room table",
+		"pub customer seating",
+		"behind the pub counter",
+		"piano"
+	  ],
+	  "bathroom": [
+	    "toilet",
+		"bathroom sink"
+	  ]
+	},
+	"Western Bank": {
+	  "office": [
+	    "president desk"
+	  ],
+	  "business area": [
+	    "behind the bank counter"
+	  ],
+	  "bathroom": [
+	    "toilet"
+	  ]
+	},
+	"Capybara Bakery": {
+	  "bakery": [
+	    "common room table",
+		"bakery store shelf",
+		"bakery store counter"
+	  ],
+	  "kitchen": [
+	    "behind the bakery counter",
+		"toaster"
+	  ],
+	  "bathroom": [
+	    "toilet"
+	  ]
+	},
+	"Game Company": {
+	  "office": [
+	    "computer desk"
+	  ],
+	  "conference room": [
+	    "common room table"
+	  ],
+	  "bathroom": [
+	    "toilet"
+	  ]
+	},
+	"Adamas Gym": {
+	  "Fitness hall": [
+	    "gym treadmill",
+		"gym counter",
+		"behind the gym counter"
+	  ],
+	  "men's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "Women's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "Private Classroom": []
+	},
+	"July hotel": {
+	  "Charlotte Moore's room": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "Charlotte Moore's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "Daniel Wilson's room": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "Daniel Wilson's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "Sophia Thompson's room": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "Sophia Thompson's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "common room": [],
+	  "office area": [
+	    "behind the hotel counter",
+		"hotel counter",
+		"radio"
+	  ]
+	},
+	"Smith family's house": {
+	  "Michael and Emily Smith's bedroom": [
+	    "bed",
+		"shelf"
+	  ],
+	  "Michael and Emily Smith's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "Isabella Smith's bedroom": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "Isabella Smith's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "kitchen": [],
+	  "common room": [
+	    "television",
+		"common room sofa"
+	  ]
+	},
+	"Taylor family's house": {
+	  "Andrew Taylor's bedroom": [
+	    "bed",
+		"shelf"
+	  ],
+	  "Andrew Taylor's bathroom": [
+	    "toilet",
+		"shower",
+		"bathroom sink"
+	  ],
+	  "David Taylor's bedroom": [
+	    "bed",
+		"desk",
+		"closet"
+	  ],
+	  "David Taylor's bathroom": [
+	    "toilet",
+		"shower"
+	  ],
+	  "kitchen": [],
+	  "common room": [
+	    "television",
+		"common room table"
+	  ]
+	}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fork_sim_code": "base_NICO_community_n12",
+  "start_date": "February 13, 2023",
+  "curr_time": "February 13, 2023, 00:00:00",
+  "sec_per_step": 10,
+  "maze_name": "the_ville",
+  "persona_names": [
+    "Christopher Lee",
+    "Elizabeth Lee",
+    "Ava Lee",
+	"James Lee",
+	"Michael Smith",
+	"Emily Smith",
+	"Isabella Smith",
+	"Andrew Taylor",
+	"David Taylor",
+	"Charlotte Moore",
+	"Daniel Wilson",
+	"Sophia Thompson"
+  ],
+  "step": 0
+}
