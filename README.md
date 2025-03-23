@@ -12,6 +12,8 @@ A virtual supermarket is embedded into a town comprising 12 LLM-driven agents. T
   <img src="NICO.gif" alt="A brief introduction to our project" width="600" height="400"/>
 </div>
 
+Click here to view our designs: [Agents Design](https://www.bilibili.com/video/BV17RXHYcETk/?spm_id_from=333.1387.homepage.video_card.click&vd_source=374b05923d096372e3474271b015211d)
+
 ### Step 0. Deployment Generative Agents and Llama2
 
 Our work is based on `Generative Agents`, so be sure to deploy and debug this project first, and then add our designs to it to improve it.
